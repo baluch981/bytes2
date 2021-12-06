@@ -1,0 +1,136 @@
+.heading{
+    position:relative;
+    font-size: 50px;
+    right: 400px;
+    top: 200px;
+    color: white;
+    
+}
+.lor1{
+    color: white;
+    position: relative;
+    right: 300px;
+    top: 150px;
+}
+
+.lor2{
+    color: white;
+    position: relative;
+    right: 545px;
+    top:150px
+}
+
+.lor3{
+    color: white;
+    position: relative;
+    right: 456px;
+    top: 150px;
+}
+.butt{
+    border: 2px solid white;
+    width: 130px;
+    border-radius: 50px;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    top: 150px;
+    left: 50px;
+}
+.ilink{
+    color: inherit;
+    text-decoration: none;
+    position: relative;
+    bottom: 465px;
+    left: 1130px;
+    
+}
+
+.x1{
+    color: inherit;
+    color: white;
+    position: relative;
+    bottom: 397px;
+    left: 800px;
+    text-decoration: none;
+    
+}
+.x2{
+    color: inherit;
+    color: white;
+    position: relative;
+    bottom: 415px;
+    left: 900px;
+    text-decoration: none;
+
+}    
+.x3{
+    color: inherit;
+    color: white;
+    position: relative;
+    bottom: 433px;
+    left: 1010px;
+    text-decoration: none;
+
+}
+.pic1{
+    background-image: url(./b1.jpeg);
+    background-size: cover ;
+    width: 200px;
+    height: 250px;
+    border-radius: 20px;
+    position: relative;
+    left: 700px;
+    bottom: 500px;
+    transition: transform 1s;
+}
+.pic2{
+    background-image: url(./b2.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 250px;
+    border-radius: 20px;
+    position: relative;
+    left: 1050px;
+    bottom: 780px;
+    transition: transform 1s;
+
+}
+.pic3{
+    background-image: url(./b3.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 250px;
+    border-radius: 20px;
+    position: relative;
+    left: 700px;
+    bottom: 750px;
+    transition: transform 1s;
+}
+.pic4{
+    background-image: url(./b4.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 250px;
+    border-radius: 20px ;
+    position: relative;
+    left: 1050px;
+    bottom: 1020px;
+    transition: transform 1s;
+}
+.pic1:hover{
+    transform: translatey(-30px);
+}
+.pic2:hover{
+    transform: translatey(-30px);
+}
+.pic3:hover{
+    transform: translatey(-30px);
+}
+.pic4:hover{
+    transform: translatey(-30px);
+}
+.logo{
+    position: relative;
+    bottom: 500px;
+    left: 100px;
+}
